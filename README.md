@@ -20,9 +20,7 @@ The "Data" section loads and processes the inputs. If the data structure is foll
 
 ### UI
 
-This defines the map user interface. DON'T TOUCH IT. Please <3 Otherwise, you're likely in for a broken application.
-
-BUT, if you have feature requests, let me (Aaron) know!
+This defines the map user interface. DON'T TOUCH IT. Please <3 Otherwise, you're likely in for a broken application. BUT, if you have feature requests, let me know!
 
 ### Server
 
@@ -101,6 +99,6 @@ Upon selecting "Update map", the map will populate on the left side of the appli
   
 ## Dang Aaron, that sure was a concise and comprehensive summary! But if I have any questions, what should I do?
 
-Did someone mention 2010s icon and Canadian hero Carly Rae Jepsen? Because the answer to that question is ~call me maybe!~ Me being Aaron, that is -- I'm happy to help out with troubleshooting. Also, any of the R developers at Renaissance -- Joel and Brian -- should be able to offer guidance in a pinch!
+Did someone mention 2010s icon and Canadian hero Carly Rae Jepsen? Because the answer to that question is \~call me maybe!\~ Me being Aaron, that is -- I'm happy to help out with troubleshooting. Also, any of the R developers at Renaissance -- Joel and Brian -- should be able to offer guidance in a pinch!
 
 
