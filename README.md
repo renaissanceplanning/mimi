@@ -10,6 +10,10 @@
 
 The `app.R` defines the application, and ideally needs minimal work. It is divided into four sections for clear definition of tasks, and comments in the code should orient a user to their purpose, and what should/shouldn't be changed.
 
+### Dependencies
+
+Check out the "libraries" at the top of the app to see the dependencies. Most are CRAN, but you'll need a couple RPG packages here too.
+
 ### Globals
 
 The "Globals" section defines a title and a basemap. The application title *is the only thing that absolutely needs to be changed* between project applications. The basemap *can* be changed, but usually shouldn't need to; it's the Renaissance default, and Brian did a sick job setting that up. Give the man some love!
