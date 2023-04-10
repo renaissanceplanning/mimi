@@ -12,7 +12,7 @@ library(shinycssloaders)
 # If you are not publishing this app to web (i.e., you are only using it
 # locally), you'll need to set the working directory to the application
 # directory so that the "Data" folder can be found. If necessary, do that here:
-# setwd("path_to_your_application_directory")
+# setwd("path_to_your_local_application_directory")
 
 # Globals ======================================================================
 
@@ -22,7 +22,7 @@ library(shinycssloaders)
 # be sufficient 99% of the time.
 
 # Title
-TITLE = "This is the mimi example" #only thing that should need to be changed
+TITLE = "Jobs in Benton County, OR (mimi example application)" #only thing that should need to be changed
 
 # Basemap
 BASEMAP = leaflet() %>%
